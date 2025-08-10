@@ -1,0 +1,4 @@
+python-dotenv
+pyairtable
+google-generativeai
+tenacity
