@@ -1,1 +1,1 @@
-# mercer-automation-assignment
+# mercor-automation-assignment
