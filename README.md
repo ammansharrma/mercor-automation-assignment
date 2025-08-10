@@ -35,7 +35,7 @@ Before running the script, you must create the database structure in Airtable.
 ### <a name="_tb0lr8ylcjov"></a>**2. Clone the Repository**
 Bash
 
-git clone https://github.com/your-username/mercor-automation-assignment.git
+git clone [https://github.com/your-username/mercor-automation-assignment.git](https://github.com/ammansharrma/mercor-automation-assignment.git)
 
 cd mercor-automation-assignment
 
